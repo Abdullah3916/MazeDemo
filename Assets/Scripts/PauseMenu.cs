@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class PauseMenu : MonoBehaviour
 {
-    //TODO REFACTOR THIS AND USE THIS WITH UI MANAGER SOMEHOW FOR THE LOVE OF GOD THIS IS UGLY
+    //TODO REFACTOR THIS AND USE THIS WITH UI MANAGER 
     private static bool _GameIsPaused;
     [SerializeField] GameObject _pauseMenuUI;
     [SerializeField] GameObject _optionsMenuUI;

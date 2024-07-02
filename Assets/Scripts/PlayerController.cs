@@ -11,7 +11,6 @@ public class PlayerController : MonoBehaviour
     {
         
     }
-    //TODO Ask if this should in fixedUpdate
     // Update is called once per frame
     void FixedUpdate()
     {
